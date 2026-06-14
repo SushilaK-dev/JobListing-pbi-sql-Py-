@@ -18,7 +18,7 @@ and identify factors that influence job ratings and salaries.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Dataset JobListing Analysis( SQL-Python-PBI)
-- Jobtitle
+- Jobtitle 
 - Company
 - experience, min/max experience levels
 - Salary, min/max Salary levels
