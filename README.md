@@ -46,7 +46,7 @@ exploring the data.
 - Normalize salary column to extract numerical values for min/max salary
 - standardized experience column to ensure consistent format.
 # Exploratory Data Analysis(EDA)
-- Perform EDA , find treds in joblisting based on location, company, experience
+- Perform EDA , find trends in joblisting based on location, company, experience
 - visualize the distribution of jobratings and review_count
 # Statistical Analysis
 - Conduct hypothesis testing to determine if there is significant difference in ratings between jobs posted on 'Naukri' and 'iimjobs'
